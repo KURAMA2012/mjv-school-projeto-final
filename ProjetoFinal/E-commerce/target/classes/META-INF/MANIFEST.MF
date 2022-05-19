@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: rnlcb
+Build-Jdk: 16.0.2
+Implementation-Title: E-commerce
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: E-commerce
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/E-commerce
+Created-By: Maven Integration for Eclipse
+
