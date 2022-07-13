@@ -8,4 +8,3 @@ Projeto Final MJV
 * JPA Hibernate
 * Postgre SQL
 * Spring Boot
-*  Swagger
